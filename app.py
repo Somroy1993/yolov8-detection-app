@@ -134,8 +134,7 @@ else:
         • Max size: {MAX_IMAGE_SIZE_MB} MB each
         """)
         
-        st.markdown("### Hire Me")
-        st.markdown("[🌐 somroy1993.github.io](https://somroy1993.github.io)")
+        st.markdown("### [🔗 Hire Me](https://somroy1993.github.io)")
         
         if st.button("🗑️ Clear Session & Results"):
             st.session_state.clear()
@@ -234,4 +233,4 @@ else:
     
     # Footer
     st.markdown("---")
-    st.markdown("Built by Somnath Roy · [Portfolio](https://somroy1993.github.io) · This is a free demo with usage limits.")
+    st.markdown("Built by Somnath Roy · [Hire Me](https://somroy1993.github.io) · This is a free demo with usage limits.")
