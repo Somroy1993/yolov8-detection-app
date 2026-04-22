@@ -135,7 +135,7 @@ else:
         """)
         
         st.markdown("### Hire Me")
-        st.markdown("[🔗 Upwork Profile](https://www.upwork.com/freelancers/~01c2ba71850d2192bb)")
+        st.markdown("[🌐 somroy1993.github.io](https://somroy1993.github.io)")
         
         if st.button("🗑️ Clear Session & Results"):
             st.session_state.clear()
@@ -234,4 +234,4 @@ else:
     
     # Footer
     st.markdown("---")
-    st.markdown("Built by Somnath Roy · [Upwork Profile](https://www.upwork.com/freelancers/~01c2ba71850d2192bb) · This is a free demo with usage limits.")
+    st.markdown("Built by Somnath Roy · [Portfolio](https://somroy1993.github.io) · This is a free demo with usage limits.")

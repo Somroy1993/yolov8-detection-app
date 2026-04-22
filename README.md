@@ -116,7 +116,7 @@ Detect objects in image.
 
 ## Hire Me
 
-Looking for custom AI solutions? [Hire me on Upwork](https://www.upwork.com/freelancers/~01c2ba71850d2192bb)
+Looking for custom AI solutions? Visit my portfolio at **[somroy1993.github.io](https://somroy1993.github.io)**
 
 ---
 
